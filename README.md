@@ -1,4 +1,4 @@
-** Rikers Bot** desrciption.
+**Rikers Bot** desrciption.
 
 ## Credits
 
