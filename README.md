@@ -14,7 +14,7 @@ Manan Ahmed (Instructor)
 Dennis Tenen (Instructor)
 
 ### Technical
-Janine Debra Ko (System Administrator)
+Janine D. Ko (System Administrator)
 
 ### Storytelling
 
