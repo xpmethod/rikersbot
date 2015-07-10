@@ -17,4 +17,7 @@
 - Assign team roles and responsibilities (writer, editor, designer, coder, project manager)
 
 ### Physical Computing (1hr)
+- thinking like a programmer
+- recepe excercise (group)
+- pseudocode (for loop, data structure)
 
