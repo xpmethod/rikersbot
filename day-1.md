@@ -6,10 +6,13 @@
 - Values circle
 - Community agreements
 
-Project Orientation (1hr)
-- What is the project
-- Principles behind the project
+### Project Orientation (1hr)
+- What is the project?
+- Principles behind the project.
 - Storytelling with Twitter
+- Twitter examples
+- Twitter structure (character limit, RT, favorites, header image, bio, handle, bots, etc.)
+- What is a story?
 - Story ideas brain storm
 - Assign team roles and responsibilities
 
