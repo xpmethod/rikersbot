@@ -14,7 +14,7 @@
 - Twitter structure (character limit, RT, favorites, header image, bio, handle, bots, etc.)
 - What is a story?
 - Story ideas brain storm (group)
-- Assign team roles and responsibilities
+- Assign team roles and responsibilities (editor, storyteller, designer, coder, project manager)
 
 Physical Computing (1hr)
 
