@@ -13,7 +13,7 @@
 - Twitter examples
 - Twitter structure (character limit, RT, favorites, header image, bio, handle, bots, etc.)
 - What is a story?
-- Story ideas brain storm
+- Story ideas brain storm (group)
 - Assign team roles and responsibilities
 
 Physical Computing (1hr)
