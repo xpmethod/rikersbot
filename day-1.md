@@ -15,6 +15,7 @@
 - What is a story?
 - Story ideas brain storm (group)
 - Assign team roles and responsibilities (writer, editor, designer, coder, project manager)
+- Job talk
 
 ### 3. Physical Computing (1hr)
 - thinking like a programmer
