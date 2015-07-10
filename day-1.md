@@ -1,9 +1,10 @@
 ## Saturday, July 11 9am - 12pm (3hr)
 
-Ice Breaker / Circle Excercises (1hr)
-- Who?
-- Why?
-- Goals
+### Ice Breaker (1 hr)
+- Common ground
+- Introduction to the program
+- Values circle
+- Community agreements
 
 Project Orientation (1hr)
 - What is the project
