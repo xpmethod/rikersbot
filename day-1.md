@@ -1,4 +1,5 @@
-## Saturday, July 11 9am - 12pm (3hr)
+## Saturday, July 11 
+9am - 12pm (3hr)
 
 Ice Breaker / Circle Excercises (1hr)
 - Who?
