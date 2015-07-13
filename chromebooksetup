@@ -7,11 +7,7 @@ We are using Lenovo N21 Chromebooks
 4. Standard chromebook setup
     - Log in to Rikersbot [at] gmail.com 
     - Check version of Google Chrome OS (should update to most recent version on its own) 
-5. Settings> Advanced Settings > Powerwash > wait for it to reboot, then click "Enable Debugging Features" > Proceed on the start up screen
+5. Settings> Advanced Settings > Powerwash. Wait for it to reboot, then click "Enable Debugging Features" > Proceed on the start up screen
 6. Enter Rikersbot [at] gmail [dot] com password, should display "You have successfullly enabled debugging features on this Chrome device." 
-
-
-- We turned off computers and pressed Esc + Refresh + Power button to restart, but holding Ctrl + D no longer works. :( 
-- Ctrl + Alt + T opens the Chrome OS Developer Shell 
----- type "shell" to start shell 
-- Powerwash
+7. Ctrl + Alt + T opens the Chrome OS Developer Shell 
+8. Type "shell"
