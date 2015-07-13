@@ -11,3 +11,4 @@ We are using Lenovo N21 Chromebooks
 6. Enter Rikersbot [at] gmail [dot] com password, should display "You have successfullly enabled debugging features on this Chrome device." 
 7. Ctrl + Alt + T opens the Chrome OS Developer Shell 
 8. Type "shell"
+-- We are stuck without the Root password.
