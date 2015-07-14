@@ -30,9 +30,8 @@ We are using Lenovo N21 Chromebooks
 > `-n` is the name parameter. We define the -n switch here so we can give the chroot a custom name of debian.
 
 - launch lxde from crosh
-`Ctrl+Alt+t` to launch crush, then `shell`, and `sudo startlxde`
+  - `Ctrl+Alt+t` to launch crush, then `shell`, and `sudo startlxde`
+  - you can flip through running chroot desktops by pressing `ctrl+alt+shift+Back/Forward`
 
-- you can flip through running chroot desktops by pressing `ctrl+alt+shift+Back/Forward`
-
-- install atom, ipython, and ipython notebook
-in the lxde terminal run `sudo apt-get install ipython ipython-notebook`
+- prepare the dev environment
+  - install atom, ipython, and ipython notebook, in the lxde terminal run `sudo apt-get install ipython ipython-notebook`
