@@ -1,11 +1,8 @@
 We are using Lenovo N21 Chromebooks
 
 - Switch to developer mode
--- testing double indent
-
-- Start in Developer mode by holding Esc + Refresh (F3) + Power button
-
-- Press Ctrl + D 
+  - Esc + Refresh (F3) + Power button
+  - Press Ctrl + D 
 
 - Press Enter
     - Computer displays "OS verification is OFF", beeps, goes dark, "Your system is transitioning to Developer Modes", reboots 
