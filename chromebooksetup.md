@@ -4,9 +4,17 @@ We are using Lenovo N21 Chromebooks
   - `Esc + Refresh (F3) + Power`
   - `Ctrl + D` and `Enter` until you see "OS verification is OFF", `Ctrl + D` until you see "Your system is transitioning to Developer Modes" and reboot 
 
+- Enable debugging features
+  - set developer password (all passwords should be the same for rikersbot)
+
+- Change default user password
+  - `Ctrl + Alt + F2` to enter the sytem shell
+  - log in as `root` and enter the dev password
+  - run `chromeos-setdevpasswd` and set to the same as dev password
+
 - Standard chromebook setup
     - Log in to Rikersbot [at] gmail.com 
-    - Check version of Google Chrome OS (should update to most recent version on its own) 
+    - Check version of Google Chrome OS (should update to most recent version on its own)
     
 - Settings> Advanced Settings > Powerwash. Wait for it to reboot, then click "Enable Debugging Features" > Proceed on the start up screen
 
