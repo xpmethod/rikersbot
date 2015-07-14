@@ -37,4 +37,4 @@
 
 - prepare the dev environment
   - disable screensaver
-  - install atom, ipython, and ipython notebook, in the lxde terminal run `sudo apt-get install ipython ipython-notebook`
+  - install leafpad, ipython, and ipython notebook, in the lxde terminal run `sudo apt-get install ipython ipython-notebook leafpad`
