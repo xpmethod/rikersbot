@@ -33,6 +33,7 @@
 
 - launch lxde from crosh
   - `Ctrl+Alt+t` to launch crush, then `shell`, and `sudo startxfce4`
+  - make sure to use the default config when offered
   - you can flip through running chroot desktops by pressing `ctrl+alt+shift+Back/Forward`
 
 - prepare the dev environment
