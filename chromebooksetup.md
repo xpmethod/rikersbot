@@ -1,4 +1,4 @@
-We are using Lenovo N21 Chromebooks
+# Installing Linux on Lenovo N21 Chromebooks
 
 - Switch to developer mode
   - `Esc + Refresh (F3) + Power`
