@@ -36,4 +36,5 @@
   - you can flip through running chroot desktops by pressing `ctrl+alt+shift+Back/Forward`
 
 - prepare the dev environment
+  - disable screensaver
   - install atom, ipython, and ipython notebook, in the lxde terminal run `sudo apt-get install ipython ipython-notebook`
