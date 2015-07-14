@@ -1,14 +1,30 @@
 We are using Lenovo N21 Chromebooks
 
 1. Start in Developer mode by holding Esc + Refresh + Power button
+
 2. Press Ctrl + D 
+
 3. Press Enter
     - Computer displays "OS verification is OFF", beeps, goes dark, "Your system is transitioning to Developer Modes", reboots 
+
 4. Standard chromebook setup
     - Log in to Rikersbot [at] gmail.com 
     - Check version of Google Chrome OS (should update to most recent version on its own) 
+    
 5. Settings> Advanced Settings > Powerwash. Wait for it to reboot, then click "Enable Debugging Features" > Proceed on the start up screen
+
 6. Enter Rikersbot [at] gmail [dot] com password, should display "You have successfullly enabled debugging features on this Chrome device." 
+
 7. Ctrl + Alt + T opens the Chrome OS Developer Shell 
+
 8. Type "shell"
--- We are stuck without the Root password.
+
+
+9. Install Debian 
+`sh ~/Downloads/crouton -r stretch -t lxde -n debian`
+
+-r is the release. We need to set this to stretch, which is the testing branch of Debian. If the -r switch is not passed Ubuntu will be installed.
+
+-t is the target command that specifies what GUI interface you want installed by default. Gnome is the default gui for kali however it does not work on my HP Chromebook 14″. KDE works and is a  good alternative to Gnome.
+
+-n is the name parameter. We define the -n switch here so we can give the chroot a custom name of debian.
