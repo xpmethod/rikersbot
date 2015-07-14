@@ -36,5 +36,5 @@
   - you can flip through running chroot desktops by pressing `ctrl+alt+shift+Back/Forward`
 
 - prepare the dev environment
-  - remove screensaver `sudo apt-get remove xscreensaver`
+  - remove screensaver `sudo apt-get remove xscreensaver*`
   - install leafpad, ipython, and ipython notebook, in the lxde terminal run `sudo apt-get install ipython ipython-notebook leafpad`
