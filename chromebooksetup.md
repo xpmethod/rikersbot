@@ -31,7 +31,7 @@
 > `-n` is the name parameter. We define the -n switch here so we can give the chroot a custom name of debian.
 
 - launch lxde from crosh
-  - `Ctrl+Alt+t` to launch crush, then `shell`, and `sudo startlxde`
+  - `Ctrl+Alt+t` to launch crush, then `shell`, and `sudo startxfce4`
   - you can flip through running chroot desktops by pressing `ctrl+alt+shift+Back/Forward`
 
 - prepare the dev environment
