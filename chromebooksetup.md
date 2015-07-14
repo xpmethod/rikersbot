@@ -21,6 +21,7 @@
 
 - Install Debian (this will take a while)
   - `sudo sh ~/Downloads/crouton -r jessie -t xfce -n debian`
+  - run `sudo delete-chroot debian` to delete if needed
   - at some point the prompt will ask you to specify username and pass for primary user---use the same credentials as throughout
 
 > `-r` is the release. We need to set this to stretch, which is the testing branch of Debian. If the -r switch is > not passed Ubuntu will be installed.
