@@ -17,7 +17,7 @@
   - install crouton extension
   - download crouton
   - `Ctrl + Alt + t` to enter crosh
-  - `cd /home/user/[long number]/Downloads`
+  - `cd /home/user/[tab through long number]/Downloads`
 
 - Install Debian (this will take a while)
   - `sudo sh crouton -r jessie -t xfce -n debian`
