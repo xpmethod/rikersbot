@@ -1,11 +1,8 @@
 We are using Lenovo N21 Chromebooks
 
 - Switch to developer mode
-  - Esc + Refresh (F3) + Power button
-  - Press Ctrl + D 
-
-- Press Enter
-    - Computer displays "OS verification is OFF", beeps, goes dark, "Your system is transitioning to Developer Modes", reboots 
+  - `Esc + Refresh (F3) + Power`
+  - `Ctrl + D` and `Enter` until you see "OS verification is OFF", `Ctrl + D` until you see "Your system is transitioning to Developer Modes" and reboot 
 
 - Standard chromebook setup
     - Log in to Rikersbot [at] gmail.com 
