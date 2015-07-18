@@ -15,6 +15,8 @@
 Cameron Rasmussen (Community Coordinator)
 
 ### Editorial
+Janine Ko 
+Zainab Aina 
 
 ### Design
 
@@ -23,7 +25,7 @@ Manan Ahmed (Instructor)
 Dennis Tenen (Instructor)
 
 ### Technical
-Janine D. Ko (System Administrator)
+Janine Ko (System Administrator)
 
 ### Storytelling
 
