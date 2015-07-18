@@ -1,0 +1,4 @@
+# These tweets are curated from tweets.txt based on what we discussed with our Rikers 
+# co-editors (i.e. they have not been deleted from tweets.txt). The plan is to begin tweeting them
+# this week. 
+
