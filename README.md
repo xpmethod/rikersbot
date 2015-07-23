@@ -18,8 +18,8 @@ Manan Ahmed, Zeinab Aina, Thomas Brown III, Marjana Chowdhury, Janine Ko, Katarz
 Cameron Rasmussen (Community Coordinator, [Center for Justice](http://centerforjustice.columbia.edu/)
 
 ### Moderators
-Manan Ahmed, Instructor, [Assistant Professor, Department of History](http://history.columbia.edu/faculty/Ahmed.html)
-Dennis Tenen, Instructor, [Assistant Professor, Department of English](http://english.columbia.edu/people/profile/453)
+* Manan Ahmed, Instructor, [Assistant Professor, Department of History](http://history.columbia.edu/faculty/Ahmed.html)
+* Dennis Tenen, Instructor, [Assistant Professor, Department of English](http://english.columbia.edu/people/profile/453)
 
 
 
