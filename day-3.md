@@ -12,7 +12,7 @@ Led by Dennis, on Python, building toward the BOT.
 - Count the characters etc.
 
 3. Writing Workshop (1.5 hr)
-Prompt: What do you dream about? What do you do with computers? What's the funniest thing you heard last month? 
+Prompt: What do you dream about? What do you do with computers? What's the funniest thing you heard last month? What do computers do for you?
 Writing is done on the machines. 
 
 4. Team Meetings (~10 Min) 
