@@ -7,13 +7,15 @@ Review Community agreements
 Share Tweets that went out this Week 
 Discussion about Guidelines for Tweets
 
-Physical Computing Exercise? 
+2. Computing Workshop (1.5 hr)
+Led by Dennis, on Python, building toward the BOT.
+- Count the characters etc.
 
-2. Computing Workshop (1.5hr)
+3. Writing Workshop (1.5 hr)
+Prompt: What do you dream about? What do you do with computers? What's the funniest thing you heard last month? 
+Writing is done on the machines. 
 
-3. Writing Workshop?
-
-4. Team Meetings (30 Min) 
+4. Team Meetings (~10 Min) 
 Coding - Dennis
 Editing - Cameron 
 Production -Manan 
