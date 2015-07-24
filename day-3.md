@@ -13,7 +13,7 @@ Saturday, July 18 9am - 12pm (3hr)
 3. Writing Workshop (1.5 hr)
   * Prompt: What do you dream about? What do you do with computers? What's the funniest thing you heard last month?    What do computers do for you?\*
    
-   <sup>\*</sup>Writing is done on the machines.*
+   <sup>\*Writing is done on the machines.</sup>
 
 4. Team Meetings (~10 Min) 
  * Coding - Dennis
