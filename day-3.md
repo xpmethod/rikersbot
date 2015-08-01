@@ -1,4 +1,4 @@
-Saturday, July 18 
+Saturday, July 18   
 9am - 12pm (3hr)
 
 ### 1. Community Building (30 Min)
