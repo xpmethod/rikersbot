@@ -22,6 +22,9 @@
     - `#RikersForADay` (anything about what it means to go into Rikers for a few hours and then 
 leave)
     - Rikers Relations (as in how the ppl interact on a daily basis)
+- wrap up:
+    - how to stay in touch
+    - how to user RikersBot on the resume when looking for jobs
 
 
 
