@@ -17,9 +17,15 @@ Saturday, July 18 | 9am - 12pm (3hr)
     ```
     with open ('test.txt', 'a') as f:
         f.write(a)
-  ```
-- build a "tweet checker" that takes input, checks for length, and saves to file
+        
+- moving to the editor
+- python bot.py
+- build a mini bot that accepts tweets, checks for length, and saves to file
 
 ### 3. Write (1 hr)
-  * Using the 
-  * Prompt: What do you dream about? What do you do with computers? What's the funniest thing you heard last month? What do computers do for you?<sup>†</sup>
+  * write using the mini bot
+  * Submitted prompts for the week:
+      - What do you dream about? 
+      - What do you do with computers?
+      - What's the funniest thing you heard last month? 
+      - What do computers do for you?
