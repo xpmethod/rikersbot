@@ -1,5 +1,5 @@
 
-Saturday, July 18 9am - 12pm (3hr)
+Saturday, July 18 | 9am - 12pm (3hr)
 
 1. Ice Breaker (45 hr)
 Coat hanger - Stranded Island Exercise 
