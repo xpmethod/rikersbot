@@ -17,8 +17,8 @@
 - Assign team roles and responsibilities (writer, editor, designer, coder, project manager)
 - Job talk
 
-### 3. Physical Computing (1hr)
+### 3. Physical Computing (1hr, no laptops)
 - thinking like a programmer
 - recepe excercise (group)
-- pseudocode (for loop, data structure)
+- pseudocode (for loops, data types and methods)
 
