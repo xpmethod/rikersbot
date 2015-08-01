@@ -2,11 +2,11 @@
 Saturday, July 18 | 9am - 12pm (3hr)
 
 ### 1. Community Building (45 hr)
-Coat hanger - Stranded Island Exercise 
-ReIntroduction to the program
-Values circle - If you could have one person really hear your story, who would it be and why? 
-Review Community agreements
-Physical Computing Exercise 
+- Stranded Island Exercise 
+- ReIntroduction to the program
+- Values circle 
+- If you could have one person really hear your story, who would it be and why? 
+- Review Community agreements
 
 ### 2. Code (1hr)
 - intro to the coding environment (commandline, ipython, text editor)
