@@ -14,10 +14,12 @@ Saturday, July 18 | 9am - 12pm (3hr)
 - raw_input()
 - list slicing
 - working with files
+
      ```
      with open ('test.txt', 'a') as f:
          f.write(a)
     ```
+    
 - moving to the editor
 - python bot.py
 - build a mini bot that accepts tweets, checks for length, and saves to file
