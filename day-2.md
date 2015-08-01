@@ -9,6 +9,16 @@ Review Community agreements
 Physical Computing Exercise 
 
 ### 2. Code (1hr)
+- intro to the coding environment (commandline, ipython, text editor)
+- `ls`, `pwd`, `mkdir`, `cd`
+- iPython interpreter (as a translator between people and machine)
+- ints and strings
+- variable assignment
+- `len()`
+- iteration
+- `if` and `for` loops
+- identation
+- code comments
 
 ### 3. Write (45 Min)
 In 2-3 Groups - Have the group do a round on each question - Have someone volunteer to scribe
