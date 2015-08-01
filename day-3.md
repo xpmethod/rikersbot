@@ -1,5 +1,4 @@
-Saturday, July 18   
-9am - 12pm (3hr)
+Saturday, July 18 | 9am - 12pm (3hr)
 
 ### 1. Community Building (30 Min)
   * Who is Telling the Story activity  
