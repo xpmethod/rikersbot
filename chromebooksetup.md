@@ -14,7 +14,7 @@
   - `Ctrl + Alt + F1` to return to the login screen and finish setting up the default account
 
 - Install Crouton
-  - install crouton extension
+  - install [crouton extension](https://chrome.google.com/webstore/detail/crouton-integration/gcpneefbbnfalgjniomfjknbcgkbijom)
   - download crouton
   - `Ctrl + Alt + t` to enter crosh
   - `cd /home/user/[tab through long number]/Downloads`
