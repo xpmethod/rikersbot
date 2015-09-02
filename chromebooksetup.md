@@ -15,7 +15,7 @@
 
 - Install Crouton
   - install [crouton extension](https://chrome.google.com/webstore/detail/crouton-integration/gcpneefbbnfalgjniomfjknbcgkbijom)
-  - download crouton
+  - download [crouton](https://goo.gl/fd3zc)
   - `Ctrl + Alt + t` to enter crosh
   - `cd /home/user/[tab through long number]/Downloads`
 
