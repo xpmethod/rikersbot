@@ -4,7 +4,7 @@
   - `Esc + Refresh (F3) + Power`
   - `Ctrl + D` out of "Chrome OS is missing `"Enter` until you see "OS verification is OFF", `Ctrl + D` until you see "Your system is transitioning to Developer Modes" and reboot 
 
-- Enable debugging features (lower right on the first login screen)
+- Enable debugging features (lower left on the first login screen)
   - set developer password (all passwords should be the same for rikersbot)
 
 - Change default user password
