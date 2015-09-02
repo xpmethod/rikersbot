@@ -17,6 +17,7 @@
   - install [crouton extension](https://chrome.google.com/webstore/detail/crouton-integration/gcpneefbbnfalgjniomfjknbcgkbijom)
   - download [crouton](https://goo.gl/fd3zc)
   - `Ctrl + Alt + t` to enter crosh
+  - launch `shell`
   - `cd /home/user/[tab through long number]/Downloads`
 
 - Install Debian (this will take a while)
