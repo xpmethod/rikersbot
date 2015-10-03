@@ -20,7 +20,7 @@ def random():
 
     # generate a random number in the remaining range
 
-    # pass the line number
+    # pass the text of the tweet
 
     # update the "already tweeted" index log
 
