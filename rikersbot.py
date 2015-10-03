@@ -14,6 +14,18 @@ def creds():
         row = creds.next()
         return row['token'], row['secret'], row['akey'], row['asecret']
 
+# select line number at random, check against what has been twitted
+def random():
+    # get lenght
+
+    # generate a random number in the range
+
+    # if the twitted file, roll again
+
+    # pass the line number
+
+    # record in the twitted file
+
 def text():
     now = datetime.datetime.now().time()
     # no longer a csv! fix this
