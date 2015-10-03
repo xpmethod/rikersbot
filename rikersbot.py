@@ -16,15 +16,13 @@ def creds():
 
 # select line number at random, check against what has been twitted
 def random():
-    # get lenght
+    # prune according to the "already tweeted" index log
 
-    # generate a random number in the range
-
-    # if the twitted file, roll again
+    # generate a random number in the remaining range
 
     # pass the line number
 
-    # record in the twitted file
+    # update the "already tweeted" index log
 
 def text():
     now = datetime.datetime.now().time()
