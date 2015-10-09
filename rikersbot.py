@@ -28,8 +28,13 @@ def random_text():
     tweet = tweets[ind]
 
     # append "already tweeted" to index log
-    with open(path + 'log.csv', a) as f:
-        f.write(ind)
+    with open(path + 'log.csv', 'a') as f:
+        f.write(ind + ',' + date + ',' + tweet)
+
+    with open(path + 'creds.csv', 'r') as csvfile:
+        creds = csv.DictReader(csvfile, delimiter=",")
+        row = creds.next()
+        return row['token'], row['secret'], row['akey'], row['asecret']
 
 def tweet(t):
 
