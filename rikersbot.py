@@ -38,7 +38,7 @@ def text():
         with open('forbidden.txt', 'a') as f:
              f.write(str(tweet_index) + '\n')
 
-        print tweet_index
+        # print tweet_index
         return tweets_list[tweet_index]
 
 def tweet(t):
@@ -60,6 +60,6 @@ tweet(text())
 #         # implement logging later
 #         # print 'failed because of %s' % e.reason
 #         pass
-# 
+#
 
 # tweet(creds(), text())
