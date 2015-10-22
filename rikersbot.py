@@ -1,6 +1,7 @@
 import csv
 import datetime
 import tweepy
+import random
 
 # cron settings
 # * * 12 03 * python /home/shared-drives/litclock/cron-bot.py
@@ -15,28 +16,35 @@ def creds():
         return row['token'], row['secret'], row['akey'], row['asecret']
 
 # select line number at random, check against what has been twitted
-def random_text():
-    # prune according to the "already tweeted" index log
+def text():
+    # read in the forbidden list and cast to int
+    with open('forbidden.txt', 'r') as f:
+        flist = f.readlines()
+        forbid_list = [int(i) for i in flist]
 
-    # generate a random number in the remaining range
+    # open tweets get length
+    with open('tweets.txt', 'r') as f:
+        tweets_list = f.readlines()
+        tweets_range = len(tweets_list) - 1
 
-    # pass the text of the tweet
+    # generate a random number in range
+    tweet_index = random.randint(0,tweets_range)
 
-    with open(path + 'tweets.txt', 'r') as f:
-        tweets = f.readlines()
+    # roll until we get a good number
+    while tweet_index in forbid_list:
+        tweet_index = random.randint(0,tweets_range)
+    else:
+        # append to the forbidden list and return the tweet
+        with open('forbidden.txt', 'a') as f:
+             f.write(str(tweet_index) + '\n')
 
-    tweet = tweets[ind]
-
-    # append "already tweeted" to index log
-    with open(path + 'log.csv', 'a') as f:
-        f.write(ind + ',' + date + ',' + tweet)
-
-    with open(path + 'creds.csv', 'r') as csvfile:
-        creds = csv.DictReader(csvfile, delimiter=",")
-        row = creds.next()
-        return row['token'], row['secret'], row['akey'], row['asecret']
+        print tweet_index
+        return tweets_list[tweet_index]
 
 def tweet(t):
+    print t
+
+tweet(text())
 
 # def tweet(k, t):
 #     try:
@@ -54,4 +62,4 @@ def tweet(t):
 #         pass
 # 
 
-tweet(creds(), text())
+# tweet(creds(), text())
