@@ -43,18 +43,17 @@ def text():
 
 def tweet(k, t):
 try:
-         # k stores token, secret, api key, and api secret
-         auth = tweepy.OAuthHandler(k[2], k[3])
-         auth.set_access_token(k[0], k[1])
-         api = tweepy.API(auth)
-         api.update_status(t)
-         # dummy write to a file instead of tweeting
-         # f = open(path + 'log.txt', 'a')
-         # f.write(t + '\n')
-     except tweepy.error.TweepError, e:
-         # implement logging later
-         # print 'failed because of %s' % e.reason
-         pass
+    # k stores token, secret, api key, and api secret
+    auth = tweepy.OAuthHandler(k[2], k[3])
+    auth.set_access_token(k[0], k[1])
+    api = tweepy.API(auth)
+    api.update_status(t)
+    # dummy write to a file instead of tweeting
+    # f = open(path + 'log.txt', 'a')
+    # f.write(t + '\n')
+except tweepy.error.TweepError, e:
+    # implement logging later
+    # print 'failed because of %s' % e.reason
+    pass
 
-
- tweet(creds(), text())
+tweet(creds(), text())
