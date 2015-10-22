@@ -10,7 +10,7 @@ path = '/home/denten/bots/rikersbot/'
 
 # separate the credits out to keep out of github
 def creds():
-    with open(path + 'creds.csv', 'r') as csvfile:
+    with open(path + 'keys.csv', 'r') as csvfile:
         creds = csv.DictReader(csvfile, delimiter=",")
         row = creds.next()
         return row['token'], row['secret'], row['akey'], row['asecret']
@@ -42,18 +42,18 @@ def text():
         return tweets_list[tweet_index]
 
 def tweet(k, t):
-try:
-    # k stores token, secret, api key, and api secret
-    auth = tweepy.OAuthHandler(k[2], k[3])
-    auth.set_access_token(k[0], k[1])
-    api = tweepy.API(auth)
-    api.update_status(t)
-    # dummy write to a file instead of tweeting
-    # f = open(path + 'log.txt', 'a')
-    # f.write(t + '\n')
-except tweepy.error.TweepError, e:
-    # implement logging later
-    # print 'failed because of %s' % e.reason
-    pass
+    try:
+        # k stores token, secret, api key, and api secret
+        auth = tweepy.OAuthHandler(k[2], k[3])
+        auth.set_access_token(k[0], k[1])
+        api = tweepy.API(auth)
+        api.update_status(t)
+        # dummy write to a file instead of tweeting
+        # f = open(path + 'log.txt', 'a')
+        # f.write(t + '\n')
+    except tweepy.error.TweepError, e:
+        # implement logging later
+        # print 'failed because of %s' % e.reason
+        pass
 
 tweet(creds(), text())
