@@ -42,12 +42,13 @@ def text():
 
 def tweet(k, t):
     try:
-        # k stores token, secret, api key, and api secret
+        # shake hands and update status
         auth = tweepy.OAuthHandler(k[0], k[1])
         auth.set_access_token(k[2], k[3])
         api = tweepy.API(auth)
         api.update_status(status=t)
-        print t
+        
+        # debug stuff
         # print "akey = " + k[2]
         # print "asecret = " + k[3]
         # print "token = " + k[0]
@@ -55,10 +56,12 @@ def tweet(k, t):
         # dummy write to a file instead of tweeting
         # f = open(path + 'log.txt', 'a')
         # f.write(t + '\n')
+        
     except tweepy.error.TweepError, e:
-        # implement logging later
+        # consider logging errors to file
         print e.message[0]['code']
         print e.args[0][0]['code']
         pass
 
+# logic
 tweet(creds(), text())
