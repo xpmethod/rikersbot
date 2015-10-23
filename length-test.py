@@ -4,4 +4,3 @@ with open('tweets.txt', 'r') as f:
         if len(line.rstrip()) > 140:
             print len(line)
             print line
-
