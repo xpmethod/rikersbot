@@ -14,7 +14,7 @@
 - Twitter structure (character limit, RT, favorites, header image, bio, handle, bots, etc.)
 - What is a story?
 - ~~Story ideas brain storm (group)~~
-- Job talk (how to use RikersBot when applying for jobs)
+- Job talk (how to use RikersBot when applying for jobs, give ownership)
 - talk about the industry
 
 ### 3. Physical Computing (1hr, no laptops)
