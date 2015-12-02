@@ -18,7 +18,7 @@
 - talk about the industry
 
 ### 3. Physical Computing (1hr, no laptops)
-- thinking like a programmer
+- thinking like a programmer (divide big problems into small easy components)
 - recepe excercise (group)
 - pseudocode (for loops, data types and methods)
 
