@@ -13,9 +13,9 @@
 - Twitter examples
 - Twitter structure (character limit, RT, favorites, header image, bio, handle, bots, etc.)
 - What is a story?
-- Story ideas brain storm (group)
-- Assign team roles and responsibilities (writer, editor, designer, coder, project manager)
-- Job talk
+- ~~Story ideas brain storm (group)~~
+- Job talk (how to use RikersBot when applying for jobs)
+- talk about the industry
 
 ### 3. Physical Computing (1hr, no laptops)
 - thinking like a programmer
