@@ -9,5 +9,4 @@ Source repository for the [RikersBot](xpmethod.plaintext.in/public-discourse/rik
 - Crouton + Debian
 - Python + iPython Notebook + LeafPad
 - RikersBot Source Code†
-
-
+- If you want to use Python Processing, then: [Install Processing on Chromebook](install-processing.md)
