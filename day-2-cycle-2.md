@@ -1,5 +1,6 @@
+# Cycle 2: Day 2
 
-1. Community Building (45 hr)
+## 1. Community Building (45 hr)
 
 Stranded Island Exercise
 ReIntroduction to the program
@@ -7,20 +8,15 @@ Values circle
 Who inspires you? 
 Review Community agreements
 
-2. Code (1hr)
+## 2. Code (1hr)
 
 intro to the coding environment (commandline, ipython, text editor)
 ls, pwd, mkdir, cd
 iPython interpreter (as a translator between people and machine)
 ints and strings
 variable assignment
-len()
-iteration
-if and for loops
-identation
-code comments
 
-3. Write (45 Min)
+## 3. Write (45 Min)
 
 In 2-3 Groups - Have the group do a round on each question - Have someone volunteer to scribe
 Who do you want to hear your stories? If you could have one person really hear your story, who would it be and why?
