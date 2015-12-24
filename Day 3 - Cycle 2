@@ -1,30 +1,36 @@
-1. Community Building (30 Min)
+# Cycle 2: Day 3
+## 1. Community Building (30 Min)
 
 Who is Telling the Story activity
 Review community agreements
 Share tweets that went out this week
 Discussion about guidelines for tweets
 
-2. Code (1.5 hr)
+## 2. Code (1.5 hr)
 
 review of day 2
-variable assignment
-strings
-len()
-raw_input()
-list slicing
-working with files
+Learning about Processing-- drawing shapes with Python.
+X and Y coordinate system, just like algebra or geometry
+Instead of (0, 0) being lower left, it's upper left.
+Positive Y goes down the screen.
 
- with open ('test.txt', 'a') as f:
-     f.write(a)
-moving to the editor
+Python Processing commands:
+ellipse: Draw a circle, specifying center and radii
+rectangle: Draw a rectangle, specifying upper left coordinates, width, and height
+line: Draw a line, specifying start coordinates (X-Y) and end coordinates (X-Y)
+point: Draw a point (X, Y)
+text: Draw text, at specified (X, Y) location
 
-python bot.py
-build a mini bot that accepts tweets, checks for length, and saves to file
+Color: specify a color like:
+c = Color(red, green, blue)
+replace red, green, and blue with a number 0-255
+The higher the number, the more that color appears.
 
-3. Write (1 hr)
+Then use fill(c), and the next shape will be filled with that color.
+o file
 
-write using the mini bot
+## 3. Write (1 hr)
+
 Submitted prompts for the week:
 What do you dream about?
 What do you do with computers?
