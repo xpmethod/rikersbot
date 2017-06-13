@@ -4,9 +4,9 @@ import tweepy
 import random
 
 # cron settings
-# * * 12 03 * python /home/shared-drives/litclock/cron-bot.py
+# 31 6 * * * python /home/denten/rikersbot/rikersbot.py
 # paths have to be explicit for cron
-path = '/home/denten/bots/rikersbot/'
+path = '/home/denten/rikersbot/'
 
 # separate the credits out to keep out of github
 def creds():
@@ -47,7 +47,7 @@ def tweet(k, t):
         auth.set_access_token(k[2], k[3])
         api = tweepy.API(auth)
         api.update_status(status=t)
-        
+
         # debug stuff
         # print "akey = " + k[2]
         # print "asecret = " + k[3]
@@ -56,7 +56,7 @@ def tweet(k, t):
         # dummy write to a file instead of tweeting
         # f = open(path + 'log.txt', 'a')
         # f.write(t + '\n')
-        
+
     except tweepy.error.TweepError, e:
         # consider logging errors to file
         print e.message[0]['code']
